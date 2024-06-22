@@ -1,0 +1,2 @@
+udp openvpn opcode udp[8]=0x38
+tcp openvpn opcode tcp[8]=0x38
